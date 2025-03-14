@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Armstrong 
+class Armstronggggg 
  {
   public static void main(String args[])  
   {
@@ -13,6 +13,6 @@ class Armstrong
             t /= 10;  // Remove last digit
         }
 
-        System.out.println(n == s ? "Armstrong" : "Not Armstrong"); 
+        System.out.println(n == s ? "Armstrongg" : "Not Armstrong"); 
     }
 }
