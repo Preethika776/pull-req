@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Armstrong 
+class Armstronggggg 
  {
   public static void main(String args[])  
   {
