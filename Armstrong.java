@@ -13,6 +13,6 @@ class Armstrong
             t /= 10;  // Remove last digit
         }
 
-        System.out.println(n == s ? "Armstrong" : "Not Armstrong"); 
+        System.out.println(n == s ? "Armstrongg" : "Not Armstrong"); 
     }
 }
